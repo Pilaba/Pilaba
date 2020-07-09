@@ -1,6 +1,6 @@
 ### Que onda papirrin
 
-Java -> PHP -> Javscript -> Kotlin -> Node -> Rust -> GO -> Swift
+Java --> Python --> PHP --> Javscript --> Kotlin --> Node --> Rust --> GO --> Swift
 
 <!--
 **Pilaba/Pilaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
