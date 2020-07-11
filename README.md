@@ -2,7 +2,4 @@
 
 
 Catador de lenguajes 
-> Java | Python | PHP | Javascript | Kotlin | Node | Rust | GO | Swift | :shipit:
-
-
-
+> Java | Python | PHP | Javascript | Kotlin | Node | Dart | Rust | GO | Swift | :shipit:
