@@ -12,4 +12,4 @@
 
 ![Pilaba Github Stats](https://github-readme-stats.vercel.app/api?username=pilaba&count_private=true&show_icons=true&theme=gruvbox)
 
-[![Pilaba's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pilaba&theme=github-compact)](https://github.com/pilaba/github-readme-activity-graph)
+[![Pilaba's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pilaba&theme=github-compact)](https://github.com/pilaba/)
