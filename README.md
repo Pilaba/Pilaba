@@ -7,7 +7,7 @@
     <img src="https://profile-counter.glitch.me/pilaba/count.svg" align="right" />
 </div>
 
-### Somehow learned and mastered along the way.
+### Somehow learned along the way.
 > Java/Kt | JS/TS/Node | Flutter/Dart | Rust | GO | Swift | SQL | AWS | Unity
 
 ![Pilaba Github Stats](https://github-readme-stats.vercel.app/api?username=pilaba&count_private=true&show_icons=true&theme=gruvbox)
